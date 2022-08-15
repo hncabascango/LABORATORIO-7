@@ -1,1 +1,39 @@
-# LABORATORIO-7
+# INFORME DEL LABORATORIO 7 - INDUCTOR Y CAPACITOR 
+
+## OBJETIVOS
+
+### Objetivo General
+### Objetivos Específicos
+
+## MARCO TEÓRICO 
+
+
+
+## EXPLICACIÓN DEL PROCEDIMIENTO
+
+## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
+
+
+## CONCLUSIONES
+
+## BIBLIOGRAFÍA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
