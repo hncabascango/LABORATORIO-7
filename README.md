@@ -44,8 +44,7 @@ Familiarizarse con los conceptos básicos de funcionamiento de las bobinas y cap
 
 ![image](https://user-images.githubusercontent.com/105606339/184905908-84e213ae-44d1-4c3c-9d34-03ead7886a1e.png)
 
-### a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los
-valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas observadas.
+### a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas observadas.
 
 ![image](https://user-images.githubusercontent.com/105606339/184912977-97374204-0540-48e3-88cb-7affd202b671.png)
 
@@ -59,8 +58,7 @@ valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas obse
 
 ![image](https://user-images.githubusercontent.com/105606339/184914476-26cd0c01-7fb0-46ec-9d77-879bed9250a8.png)
 
-### b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
+### b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ![image](https://user-images.githubusercontent.com/105606339/184934323-8c4e1f8c-efe6-4477-8fc3-d976177300c0.png)
 
@@ -74,15 +72,25 @@ de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ![image](https://user-images.githubusercontent.com/105606339/184934636-3b2335f6-47d6-4d42-a556-25e39f17e86c.png)
 
-### c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
+### c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
+
+![image](https://user-images.githubusercontent.com/105606339/184944218-1cdf5b93-3fea-4b07-abdb-314c451f1ec5.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944278-1ba2c505-f247-4442-970b-4a50ac4154eb.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944345-76012637-e208-4c0f-9360-d6898696daca.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944380-2712db3a-b6b4-4138-8376-5e22afa7850d.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944433-a611226b-0c00-447d-b224-bc67a0ef389f.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944474-89b7ee2a-e629-4614-a9ab-8b64849cdf55.png)
 
 ### Figura 2
 
 ![image](https://user-images.githubusercontent.com/105606339/184906512-62211c99-550b-4f78-81ee-ffc219e7e194.png)
 
-### a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los
-valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas observadas.
+### a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas observadas.
 
 ![image](https://user-images.githubusercontent.com/105606339/184926993-5f6d15a9-435c-482b-b358-c9c33bc83621.png)
 
@@ -97,8 +105,7 @@ valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas obse
 ![image](https://user-images.githubusercontent.com/105606339/184927271-4f0738ef-6ab3-487f-80a3-6e39323d0044.png)
 
 
-### b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
+### b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ![image](https://user-images.githubusercontent.com/105606339/184935056-cbc33ce3-5f5e-4010-82f3-c8fa9a52441d.png)
 
@@ -112,8 +119,19 @@ de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ![image](https://user-images.githubusercontent.com/105606339/184934863-e4afc7eb-e589-4f10-b6af-2b143b6aeeeb.png)
 
-### c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
+### c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
+
+![image](https://user-images.githubusercontent.com/105606339/184943942-8409e5c0-a3e0-4b44-a33c-b55d2f7b8d97.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184943976-53ce7a32-8494-4822-b03f-ac40a922bb63.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944025-66aa6792-c559-4dee-9d24-2dde67567799.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944062-658aa746-07a9-436f-8e00-3bbb815c8ec0.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944108-f83f4caa-9190-43c9-aed9-d21a6a82d8a6.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184944137-6f020882-dec1-451d-9741-1ce4f028a0f1.png)
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
 
@@ -159,7 +177,7 @@ Cuando unimos el capacitor a una fuente de voltaje alterno, cambia el voltaje en
 
 ### 3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-
+Dependiendo de la capacitancia o inductancia total el valor
 
 ### 4. ¿Qué son los valores eficaces de voltaje y corriente?
 
