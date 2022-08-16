@@ -44,7 +44,7 @@ Familiarizarse con los conceptos básicos de funcionamiento de las bobinas y cap
 
 ![image](https://user-images.githubusercontent.com/105606339/184905908-84e213ae-44d1-4c3c-9d34-03ead7886a1e.png)
 
-a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los
+### a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas observadas.
 
 ![image](https://user-images.githubusercontent.com/105606339/184912977-97374204-0540-48e3-88cb-7affd202b671.png)
@@ -59,23 +59,32 @@ valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas obse
 
 ![image](https://user-images.githubusercontent.com/105606339/184914476-26cd0c01-7fb0-46ec-9d77-879bed9250a8.png)
 
-b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores
+### b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
+![image](https://user-images.githubusercontent.com/105606339/184934323-8c4e1f8c-efe6-4477-8fc3-d976177300c0.png)
 
+![image](https://user-images.githubusercontent.com/105606339/184934405-7436b4b4-5c58-4fc7-95bd-c5890e34d31b.png)
 
-c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+![image](https://user-images.githubusercontent.com/105606339/184934503-6cff8686-c485-47e2-b65a-4261b92d9716.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184934533-8ffc86e2-e5a3-46b0-9b3a-b03f4368453a.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184934600-eb7f87d7-b498-4973-b612-c9c1f79f3ae6.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184934636-3b2335f6-47d6-4d42-a556-25e39f17e86c.png)
+
+### c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ### Figura 2
 
 ![image](https://user-images.githubusercontent.com/105606339/184906512-62211c99-550b-4f78-81ee-ffc219e7e194.png)
 
-a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los
+### a) Utilizar el osciloscopio para observar el voltaje  variando la frecuencia entre los
 valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas observadas.
 
 ![image](https://user-images.githubusercontent.com/105606339/184926993-5f6d15a9-435c-482b-b358-c9c33bc83621.png)
-
 
 ![image](https://user-images.githubusercontent.com/105606339/184926780-f0db33fc-197a-41c5-b037-ff6e38820288.png)
 
@@ -88,10 +97,22 @@ valores de 0, 10, 50, 100, 500, 1000 . Anotar los valores pico de las ondas obse
 ![image](https://user-images.githubusercontent.com/105606339/184927271-4f0738ef-6ab3-487f-80a3-6e39323d0044.png)
 
 
-b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores
+### b) Utilizar un multímetro para medir el voltaje  variando la frecuencia entre los valores
 de 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
-c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
+![image](https://user-images.githubusercontent.com/105606339/184935056-cbc33ce3-5f5e-4010-82f3-c8fa9a52441d.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184934910-1a1324c8-335d-4948-beb4-f32e19aa8e57.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184935107-3a141298-14be-480f-95f1-9f06ecdc671a.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184935153-5de0153e-cd14-4036-98e5-168b1ca181cc.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184935193-952b618e-6791-43f7-b1c1-7b10f413aa66.png)
+
+![image](https://user-images.githubusercontent.com/105606339/184934863-e4afc7eb-e589-4f10-b6af-2b143b6aeeeb.png)
+
+### c) Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
 frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ## RESPUESTA A INTERROGANTES Y CÁLCULO DE ERROR
@@ -104,25 +125,25 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anotar los resultados.
 
 ### Tabla de medición de voltaje con el multímetro
 
-![image](https://user-images.githubusercontent.com/105606339/184911993-c3242879-e5dd-4aee-8a6b-d30963df48c9.png)
+![image](https://user-images.githubusercontent.com/105606339/184933562-e7501c97-c9dc-4826-b9cf-167f690b20e1.png)
 
 ### Tabla de medición de corriente con el multímetro
 
-![image](https://user-images.githubusercontent.com/105606339/184912116-e9ccd539-6b47-4322-b3ac-f5c1bfad06e7.png)
+![image](https://user-images.githubusercontent.com/105606339/184933612-d2f42084-49c9-434d-9e21-e10d45f4e874.png)
 
 ### Figura 2
 
 ### Tabla de medición de voltaje con el osciloscopio
 
-![image](https://user-images.githubusercontent.com/105606339/184912212-02703438-b6fd-4c18-8dee-57c8d098a9ce.png)
+![image](https://user-images.githubusercontent.com/105606339/184933791-dedd470f-7f2e-483b-8abe-6700fe034e6b.png)
 
 ### Tabla de medición de voltaje con el multímetro
 
-![image](https://user-images.githubusercontent.com/105606339/184912445-fdfaa3cf-42bf-4c05-aada-23446e921f99.png)
+![image](https://user-images.githubusercontent.com/105606339/184933838-6ae60ae5-3631-4817-b1ec-b243ee1ab999.png)
 
 ### Tabla de medición de corriente con el multímetro
 
-![image](https://user-images.githubusercontent.com/105606339/184912528-338cb597-70a9-46e0-b5a1-d855a46eae83.png)
+![image](https://user-images.githubusercontent.com/105606339/184933894-d29f3343-8a2e-4a9d-bc72-62dadbf08315.png)
 
 ### Preguntas
 
