@@ -177,7 +177,7 @@ Cuando unimos el capacitor a una fuente de voltaje alterno, cambia el voltaje en
 
 ### 3. ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?
 
-Dependiendo de la capacitancia o inductancia total el valor
+Dependiendo de la capacitancia o inductancia total el valor tendrá una variación.
 
 ### 4. ¿Qué son los valores eficaces de voltaje y corriente?
 
@@ -185,9 +185,14 @@ Es un método de denotar una forma de onda sinusoidal de voltaje o corriente(for
 
 ## CONCLUSIONES
 
+- Los valores de 
+
+-
 ## BIBLIOGRAFÍA
 
+Vargas, L., & Maldonado, E. (13 de Marzo de 2012). MID. Obtenido de https://www.sistemamid.com/panel/uploads/biblioteca/1/349/1259/6572/6589/77754.pdf
 
+Floyd, TL (2007). Principios de circuitos electricos. México: EDUCACIÓN DE LA PERSONA.
 
 
 
