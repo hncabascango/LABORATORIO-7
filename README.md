@@ -189,7 +189,7 @@ Es un método de denotar una forma de onda sinusoidal de voltaje o corriente(for
 
 - Los valores de corriente son mayores conforme la frecuencia va ajando, se ha observado el mismo comportamiento tanto en la figura 1 como en la figura 2.
 
-Los valores medidos tanto de la corriente como del voltaje son similares con ambos instrumentos, el osciloscopio y el multímetro.
+- Los valores medidos tanto de la corriente como del voltaje son similares con ambos instrumentos, el osciloscopio y el multímetro.
 
 ## BIBLIOGRAFÍA
 
