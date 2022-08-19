@@ -185,9 +185,12 @@ Es un método de denotar una forma de onda sinusoidal de voltaje o corriente(for
 
 ## CONCLUSIONES
 
-- Los valores de 
+- Los valores de voltaje son menores conforme la frecuencia va subiendo, se ha observado el mismo comportamiento tanto en la figura 1 como en la figura 2.
 
--
+- Los valores de corriente son mayores conforme la frecuencia va ajando, se ha observado el mismo comportamiento tanto en la figura 1 como en la figura 2.
+
+Los valores medidos tanto de la corriente como del voltaje son similares con ambos instrumentos, el osciloscopio y el multímetro.
+
 ## BIBLIOGRAFÍA
 
 Vargas, L., & Maldonado, E. (13 de Marzo de 2012). MID. Obtenido de https://www.sistemamid.com/panel/uploads/biblioteca/1/349/1259/6572/6589/77754.pdf
